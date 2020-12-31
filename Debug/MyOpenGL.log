@@ -1,0 +1,12 @@
+﻿  源.cpp
+C:\Users\Alex\source\repos\MyOpenGL\MyOpenGL\源.cpp(41,13): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Alex\source\repos\MyOpenGL\MyOpenGL\源.cpp(41,40): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Alex\source\repos\MyOpenGL\MyOpenGL\源.cpp(234,22): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Alex\source\repos\MyOpenGL\MyOpenGL\源.cpp(313,11): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Alex\source\repos\MyOpenGL\MyOpenGL\源.cpp(314,11): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Alex\source\repos\MyOpenGL\MyOpenGL\源.cpp(318,16): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Alex\source\repos\MyOpenGL\MyOpenGL\源.cpp(319,16): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Alex\source\repos\MyOpenGL\MyOpenGL\源.cpp(320,10): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Alex\source\repos\MyOpenGL\MyOpenGL\源.cpp(321,10): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Alex\source\repos\MyOpenGL\MyOpenGL\源.cpp(324,26): warning C4305: “初始化”: 从“double”到“float”截断
+  MyOpenGL.vcxproj -> C:\Users\Alex\source\repos\MyOpenGL\Debug\MyOpenGL.exe
